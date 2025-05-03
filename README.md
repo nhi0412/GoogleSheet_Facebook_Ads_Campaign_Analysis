@@ -98,7 +98,7 @@ A Target CPMess is set at 25,000 VND. The Cost per Mess card is conditionally fo
 
 ### 1. Daily Spent
 
-![Screenshot 2025-05-03 at 3.34.17 pm.png](attachment:c43d64d6-3123-46ca-b7d4-f78e850b24cd:Screenshot_2025-05-03_at_3.34.17_pm.png)
+![Image](https://github.com/user-attachments/assets/5e575846-c1c5-49fd-8d1e-70859c9303d0)
 
 - Daily ad spend ranged consistently between 1.5M to 2.0M VND, with occasional spikes (e.g. April 20 and 29 at 2.3M).
 - On April 20, spending peaked above 2.3M VND, which also saw a high messaging volume, suggesting effective campaign execution that day.
@@ -106,7 +106,7 @@ A Target CPMess is set at 25,000 VND. The Cost per Mess card is conditionally fo
 
 ### 2. Daily Messaging Conversations
 
-![Screenshot 2025-05-03 at 3.39.00 pm.png](attachment:e1f1d541-3fed-4dca-a84d-c70b47879284:Screenshot_2025-05-03_at_3.39.00_pm.png)
+![Image](https://github.com/user-attachments/assets/15185cfb-c607-46cc-bb73-8570d2dff9dc)
 
 - Messaging volume generally hovered between 70–100 conversations/day, showing a healthy and consistent user response.
 - A noticeable drop occurred on April 24, where messaging dipped below 70, despite no significant change in spending.
@@ -114,7 +114,7 @@ A Target CPMess is set at 25,000 VND. The Cost per Mess card is conditionally fo
 
 ### 3. Daily Cost per Message
 
-![Screenshot 2025-05-03 at 3.44.05 pm.png](attachment:b9544a5b-d30c-46fb-b864-34d98ead54cd:Screenshot_2025-05-03_at_3.44.05_pm.png)
+![Image](https://github.com/user-attachments/assets/1ec70b40-8dbc-46f1-ac37-c6e7cc5777fb)
 
 - Cost per message started at nearly 30,000 VND threshold on April 15, then gradually decreased to a more efficient range (~20,000 VND) between April 19–23.
 - April 23 and 25 showed minor spikes, exceeding 25,000 VND, likely due to reduced engagement on those days.
@@ -124,7 +124,7 @@ A Target CPMess is set at 25,000 VND. The Cost per Mess card is conditionally fo
 
 ### Top 5 Inefficient Campaigns
 
-![Screenshot 2025-05-03 at 3.48.50 pm.png](attachment:06308ddf-9081-42e1-928a-ad56021aec2f:Screenshot_2025-05-03_at_3.48.50_pm.png)
+![Image](https://github.com/user-attachments/assets/03ae09f3-a5e9-49c3-98b8-7e56d01f94f5)
 
 These campaigns had the highest cost per message, exceeding the CPMess target (25,000 VND) by over 100% in most cases.
 
@@ -132,7 +132,7 @@ These campaigns had the highest cost per message, exceeding the CPMess target (2
 
 ### **Top 5 Efficient Campaigns**
 
-![Screenshot 2025-05-03 at 3.52.47 pm.png](attachment:890d2f8a-6e70-4aa7-bf55-d5bca584d876:Screenshot_2025-05-03_at_3.52.47_pm.png)
+![Image](https://github.com/user-attachments/assets/5c5e45aa-2301-489d-8f5c-524d63b1a0f5)
 
 These campaigns generated messages at **the lowest cost**, staying well below 25,000 VND.
 
@@ -140,7 +140,7 @@ These campaigns generated messages at **the lowest cost**, staying well below 25
 
 ### Top 5 Highest-Spend Campaigns
 
-![Screenshot 2025-05-03 at 3.55.26 pm.png](attachment:281439ee-ab32-4cc0-a964-97a6733313c5:Screenshot_2025-05-03_at_3.55.26_pm.png)
+![Image](https://github.com/user-attachments/assets/c7005886-7bf8-44fa-8897-94534d373798)
 
 These campaigns occupied the **largest share of the total ad budget**.
 
@@ -150,13 +150,13 @@ These campaigns occupied the **largest share of the total ad budget**.
 
 These ads received **the most clicks per impression**, showing strong creative appeal and relevance.
 
-![Screenshot 2025-05-03 at 3.57.04 pm.png](attachment:2d7aa746-189b-42bb-b599-a17841f06cea:Screenshot_2025-05-03_at_3.57.04_pm.png)
+![Image](https://github.com/user-attachments/assets/1f9cde41-0f4a-4ff4-8f7e-dee5a328f546)
 
 ⇒ Repurpose or A/B test these ad creatives across other audiences.
 
 ### Top 5 Cost-Effective Click Campaigns (by CPC)
 
-![Screenshot 2025-05-03 at 3.58.15 pm.png](attachment:67ab2490-53da-414b-8638-6ed4b896b850:Screenshot_2025-05-03_at_3.58.15_pm.png)
+![Image](https://github.com/user-attachments/assets/2d9ca8c1-79db-4c09-ad7f-9402b621554b)
 
 ⇒ Consider pairing with retargeting.
 
